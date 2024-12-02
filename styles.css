@@ -327,8 +327,6 @@ footer a:hover {
     background: #555; /* Darker on hover */
 }
 
-/* End of CSS */
-
 .cpu img {
     width: 50%;
     height: auto;
@@ -404,3 +402,4 @@ footer a:hover {
     opacity: 1;
     transform: translateX(-50%) scale(1);
 }
+/* End of CSS */
